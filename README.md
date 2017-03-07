@@ -2,6 +2,11 @@
 
 Feel free to use the data. Let me know if you come up with anything cool.
 
+If you're looking for up-to-date @realdonaldtrump data, use this repo instead (it auto-updates hourly):
+https://github.com/bpb27/trump_tweet_data_archive
+
+This repo will be updated infrequently.
+
 Each folder contains four files:
   - A CSV file (open with Excel or Google Spreadsheets)
   - A user_ids.json file (contains all known tweet ids)
